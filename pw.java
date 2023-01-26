@@ -4,4 +4,8 @@ class java
    {
     ////code
    }
+public static void m1()
+   {
+    ////code
+   }
 }
